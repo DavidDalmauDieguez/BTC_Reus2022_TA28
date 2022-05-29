@@ -1,0 +1,31 @@
+div{
+    padding-left: 5px;
+    padding-bottom: 1px;
+    width: 680px;
+    background-color: bisque;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium';
+    color: grey;
+    background-color: coral;
+}
+
+i{
+    color: skyblue;
+}
+
+b{
+    color: grey;
+}
+
+p{
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li{
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style: none;
+}
